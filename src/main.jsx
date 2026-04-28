@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         config={{
             providers: ["google", "apple", "injected"],
             addressTypes: [AddressType.solana],
-            appId: "your-app-id",
+            appId: "8a90a62c-78e0-46c2-a8a5-f2084362c273",
         }}
         theme={darkTheme}
         appName="Your App"
